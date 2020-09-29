@@ -24,8 +24,6 @@ The process followed by the project was:
 5. ROC Curve
 6. Adjusting probability threshold
 
-**Terminar de rellenar esta parte**
-
 ## 1. Exploratory Data Analysis
 
 First of all, we need to import the complete dataset and take a view of the data. It is a 31 column dataset with 284807 transactions made with no label for the columns. Only the amount and time after a transaction are available. Also, a scaling is made because of the difference in magnitudes, specially in the labeled cases (time & amount).
